@@ -1,0 +1,7 @@
+[package]
+name = "cat-sample"
+version = "0.1.0"
+authors = ["naotaka nakane <n.nakane0219@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
